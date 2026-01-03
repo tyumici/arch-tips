@@ -3,3 +3,20 @@ This is my general purpose guide to things I've learned from being on Arch for a
 Not all encompassing, but mainly helpful for me and hopefully others as a reference.
 
 ## Install
+
+## FSTAB
+
+### Network Drives
+
+## Terminal
+
+## DE/WM
+
+## Pacman
+
+## AUR
+
+## General Apps
+
+## Gaming
+
